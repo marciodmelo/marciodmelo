@@ -44,7 +44,7 @@ Projetos de jogos desenvolvidos em Python para estudo de lógica, orientação a
 ## 🌐 Onde me encontrar
 
 - 🔗 **Portfólio:** https://marciodemelo.dev.br  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/marcio-de-melo-37125a2a7
+- 💼 **LinkedIn:** https://www.linkedin.com/in/marciodmelo
 - 💻 **GitHub:** https://github.com/marciodmelo  
 
 ---
